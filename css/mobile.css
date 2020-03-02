@@ -55,7 +55,7 @@
   }
 
   #contact{
-  flex-direction: column;
+  display: block;
   }
 
   #contact .map{
